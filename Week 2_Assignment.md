@@ -2,6 +2,16 @@
 ### David Kim
 
 
+Topic | Topic
+------|-------
+
+
+
+
+
+
+
+
 ## In Major League Soccer, do players who play for top teams cover more ground than those who play for teams with worse record?
 There are 23 teams in the MLS. I would look at the record and compare miles (or kilometers) run by players in the top half teams during games and compare them to those in the bottom half teams. When I gather all the data, I'm hoping to find some data that stands out. For instance, how does the miles run differ by positions or by formations, if any? Is there a certain position who tends to run more than others?
 
