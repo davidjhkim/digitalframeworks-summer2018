@@ -1,8 +1,8 @@
 # Assignment 1
 ### David Kim
 
-
-## In Major League Soccer, do players who play for top teams cover more ground than those who play for teams with worse record?                                |
+## In Major League Soccer, do players who play for top teams cover more ground than those who play for teams with worse record?  |
+dfdsfsdfsdf                                                                                                                      |
 ---------------------------          ---------------------------
                                   
 
