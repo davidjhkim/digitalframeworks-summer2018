@@ -1,5 +1,5 @@
 # Assignment 1
-                                                                                                                             ### David Kim
+### David Kim
 
 
 __In Major League Soccer, do players who play for top teams cover more ground than those who play for teams with worse record?__ | __Do tennis players who serve with higher velocity more likely to earn their serve points than serving with less velocity?__
