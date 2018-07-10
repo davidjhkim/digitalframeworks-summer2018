@@ -1,21 +1,23 @@
 # Soccer
 
-## Objective: Clarity and Accuracy
+### Objective: Clarity and Accuracy
 This story is headlined How Far Do You Run in a Soccer Game? The article, very briefly, talks about history of measuring players' distance run and which positions tend to run more than the other. On a scale, I would give it a 3. It definitely wasn't excellent or thorugh. But technically, it did answer the question, just not specifically. 
 
 To be honest, there wasn't much to navigate. There weren't data or graphs or pictures to display the statistics. It was just all words. I would give it a 1. For improvements, I would suggest presenting the data in a more easily-consumable way.
 
 I definitely think the minimal data presented in the story was accurate, considering what I know about the sport, But there was no source presented. I think more data needs to be presented too. I would give it a 2.
 
-## Objective: Quality
+### Objective: Quality
 I would give a 1.5. There was no graphic presented, making it difficult to consume and understand the data. There was no comparison to other sports, which many stories like this and this do. The author does explain, in words, what some of the data indicates, which I appreciated. 
 
-## Objective: Type and Color
+### Objective: Type and Color
 Not Applicable
 
-## Objective: Creativity
+### Objective: Creativity
 There was no creativity. I would rate the effetivess 1. There wasn't that much intricate data presented and I have no idea where the author got the information.
 
 
 
 # Tennis
+
+###
