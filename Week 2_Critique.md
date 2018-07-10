@@ -1,7 +1,7 @@
 # Soccer
 
 ### Clarity and Accuracy
-This story is headlined ["How Far Do You Run in a Soccer Game?"] (https://www.active.com/soccer/articles/how-far-do-you-run-during-a-soccer-game-872900) The article, very briefly, talks about history of measuring players' distance run and which positions tend to run more than the other. On a scale, I would give it a 3. It definitely wasn't excellent or thorugh. But technically, it did answer the question, just not specifically. 
+This story is headlined ["How Far Do You Run in a Soccer Game?"] (https://www.active.com/soccer/articles/how-far-do-you-run-during-a-soccer-game-872900). The article, very briefly, talks about history of measuring players' distance run and which positions tend to run more than the other. On a scale, I would give it a 3. It definitely wasn't excellent or thorugh. But technically, it did answer the question, just not specifically. 
 
 To be honest, there wasn't much to navigate. There weren't data or graphs or pictures to display the statistics. It was just all words. I would give it a 1. For improvements, I would suggest presenting the data in a more easily-consumable way.
 
