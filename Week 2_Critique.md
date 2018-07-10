@@ -22,7 +22,7 @@ There was no creativity. I would rate the effetivess 1. There wasn't that much i
 
 ### Clarity and Accuracy
 
-I would give it a 5. [The story] (https://fivethirtyeight.com/features/the-secret-to-nadals-dominance-on-clay/) clearly provides reasons why Nadal is so good on clay courts, using data from his second-serve to illustrate his dominance. The headline is The Scret to Nadal's Dominance on Clay, which the author answers.
+I would give it a 5. [The story (https://fivethirtyeight.com/features/the-secret-to-nadals-dominance-on-clay/)] clearly provides reasons why Nadal is so good on clay courts, using data from his second-serve to illustrate his dominance. The headline is The Scret to Nadal's Dominance on Clay, which the author answers.
 
 I was able to fairly quickly understand how I would navigate the data, though if you weren't reading the story and you just looked at the data, you wouldn't understand why the author was presenting those data. I would give it a 4. But the data that the author *did* provide, I found it very helpful, comparing Nadal's data to that of other athletes. 
 
