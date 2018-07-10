@@ -40,3 +40,4 @@ I thought the one use of color was nice. At first, I thought the color orange wa
 
 ### Creativity
 
+I would give it a 4 and not a 5, only because I wasn't blown away by it. In terms of creativeness, I thought the author did a nice job presenting not just that he wins a lot of second-serve point, but how it helps Nadal actually win it. For instance, the author presents a video to demonstrate that his serve puts him in a good position on the court to easily win the point. 
