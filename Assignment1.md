@@ -44,6 +44,9 @@ I thought the one use of color was nice. At first, I thought the color orange wa
 
 I would give it a 4 and not a 5, only because I wasn't blown away by it. In terms of creativeness, I thought the author did a nice job presenting not just that he wins a lot of second-serve point, but how it helps Nadal actually win it. For instance, the author presents a video to demonstrate that his serve puts him in a good position on the court to easily win the point. 
 
+
+
+
 # Story Idea
 
 __In Major League Soccer, do players who play for top teams cover more ground than those who play for teams with worse record?__ | __Do tennis players who serve with higher velocity more likely to earn their serve points than serving with less velocity?__
