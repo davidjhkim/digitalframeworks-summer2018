@@ -13,4 +13,4 @@ Here are the features I will be collecting:
 
 Opponent| Minutes Played|Game Start Time|Overtime|Temperature|Final Score|Distance Run
 -------- ---------------
-Vancouver 32
+Vancouver| 32
