@@ -13,7 +13,8 @@ Here are the features I will be collecting:
 
 Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Humidity | Final Score | Distance Run
 -------- | ---------------|-----------------|----------|-------------|----------|-------------|--------------
-Vancouver| 32 | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*        
+Vancouver Whitecaps| 32 | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*        
 
 
-* I'm currently in contact with STATS, which collects data of how m
+* I'm currently in contact with STATS, which collects data of how many kilometers players run. I'm hoping to get hands on the data soon. 
+I will check weather.gov for temperature and cross-reference ESPN and MLS website for game statistics. 
