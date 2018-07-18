@@ -12,7 +12,7 @@ Here are the features I will be collecting:
 
 
 Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Humidity | Final Score | Distance Run
--------- | ---------------| ----------------|---------| ------------|--------------|--------------
+-------- | ---------------|-----------------|----------|-------------|----------|-------------|
 Vancouver| 32 | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*        
 
 
