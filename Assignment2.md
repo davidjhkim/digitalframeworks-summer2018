@@ -3,6 +3,8 @@ I would like to know if there is a correlation between the kilometers run by soc
 Here are the features I will be collecting:
 
 * Opponent (Is the team playing a strong team or a weak team?)
-* Number of minutes played by the player 
+* Number of minutes played by the player (You would probably run less than others if you are subbed in/out)
 * Game start time (Are they running in the hot sun, which could impact their physical condition?)
-* 
+* Overtime/PK 
+* Weather/Temperature (SImilar to game start time, weather plays a factor in conditioning)
+* Score (If a team is getting blown out, players in that team might not be willing to run more as opposed to when the score is tight)
