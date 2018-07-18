@@ -9,3 +9,6 @@ Here are the features I will be collecting:
 * Weather/Temperature (SImilar to game start time, weather plays a factor in conditioning)
 * Score (If a team is getting blown out, players in that team might not be willing to run more as opposed to when the score is tight)
 * Distance run by players
+
+
+Opponent | Minutes Played|Game Start Time|Overtime|Temperature|Final Score|Distance Run
