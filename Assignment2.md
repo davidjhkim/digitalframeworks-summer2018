@@ -2,7 +2,7 @@ I would like to know if there is a correlation between the kilometers run by soc
 
 Here are the features I will be collecting:
 
-1. Opponent (Is the team playing a strong team or a weak team?)
-1. Number of minutes played by the player 
-1. Game start time (Are they running in the hot sun, which could impact their physical condition?)
-1. 
+* Opponent (Is the team playing a strong team or a weak team?)
+* Number of minutes played by the player 
+* Game start time (Are they running in the hot sun, which could impact their physical condition?)
+* 
