@@ -11,6 +11,6 @@ Here are the features I will be collecting:
 * Distance run by players
 
 
-Opponent| Minutes Played|Game Start Time|Overtime|Temperature|Final Score|Distance Run
--------- ---------------
-Vancouver| 32
+Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Final Score | Distance Run
+-------- | ---------------|
+Vancouver| 32             
