@@ -11,9 +11,9 @@ Here are the features I will be collecting:
 * Distance run by players
 
 
-Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Humidity | Final Score | Distance Run
--------- | ---------------|-----------------|----------|-------------|----------|-------------|--------------
-Vancouver Whitecaps| 32 | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*        
+Player | Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Humidity | Final Score | Distance Run
+-------| -------- | ---------------|-----------------|----------|-------------|----------|-------------|--------------
+Wayne Rooney | Vancouver Whitecaps| 32 | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*        
 
 
 * I'm currently in contact with STATS, which collects data of how many kilometers players run. I'm hoping to get hands on the data soon. 
