@@ -14,10 +14,10 @@ Here are the features I will be collecting:
 Player | Position | Opponent | Minutes Played | Game Start Time | Overtime | Temperature | Humidity | Final Score | Distance Run
 -------| ---------| -------- | ---------------|-----------------|----------|-------------|----------|-------------|--------------
 Wayne Rooney | Forward | Vancouver Whitecaps| 32 minutes | 8:00pm | No | 88/79 F | 48% |  3-1|  tk*     
-Yamil Asad | Midfieilder | Vancouver Whitecaps| 89 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 tk*
-Steve Birnbaum | Defense | Vancouver Whitecaps | 90 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 tk*
-Paul Arriola | Midfielder | Vancouver Whitecaps | 84 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 tk*
-Zoltan Stieber | MIdfielder | Vancouver Whitecaps | 90 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 tk*
+Yamil Asad | Midfieilder | Vancouver Whitecaps| 89 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 | tk*
+Steve Birnbaum | Defense | Vancouver Whitecaps | 90 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 | tk*
+Paul Arriola | Midfielder | Vancouver Whitecaps | 84 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 | tk*
+Zoltan Stieber | MIdfielder | Vancouver Whitecaps | 90 minutes | 8:00pm | NO | 88/79 F |48% | 3-1 | tk*
 
 
 * I'm currently in contact with STATS, which collects data of how many kilometers players run. I'm hoping to get hands on the data soon. 
