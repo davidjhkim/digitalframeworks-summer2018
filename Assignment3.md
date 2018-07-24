@@ -1,11 +1,6 @@
 ## Documentation
 
-Purpose: To only see data of those entering 1st grade, whose birthday was in January and OLSAT verbal score was between 20 and 25
-
-1. First, the background highlighting was annoying so I got rid of that
-1. Since, this file is only supposed to consist of test scores from 2018, I got rid of 2017 data (Row 2)
-1. Using the filter, for "Entering Grade Level" column, I only selected grade level 1, which was only 26 data points out of 99
-1. THere is a data point where OLSAT Verbal score was missing. I selected the row and deleted it.
-1. I then put the OLSAT Verbal Score in ascending order
-1. I highlighted all the rows that were not 20, 21, 22, 23, 24, 25 and deleted them.
-1. I didn't want to have any slashes, especially under the column "School Preferences." So, I instered a column next to it. Then I selected column J and clicked Text to Column. After putting "/" as the deliminator, the column splited. I labeled the new column as School Preferences 2. 
+1. Under the column "School Assigned," I wanted to fill all the blanks with "None." So I first typed "none" somewhere and copied it. Then, I highlighted that column. I typed go to under help and under Find & Select, I clicked Go to special, and clicked on the blank box. All the blanks were selected and I just pasted it, so they all filled with blanks. 
+1. In the first column, there are three missing dates consecutively. So I typed N/A in the first one and dragged it to the second and third one to fill it. 
+1. I didn't want any slashes in School Preferences. So I added a column right next to it. I highlighted the School Preferences column, clicked Text to Columns. I put "/" in the deliminator, moving all the right portion of the "/" to the new column. I labeled it School Preferences 2.
+I only want test dates from 2018. Row 2 says 2017. My guess is that it's a typo because the dates 3/27 seem to be when a lot of the testing happened. Just in case, I clicked Find and Replace. Under Find What, I typed 2017. Under Replace with, I typed 2018. There was only one case of there being 2018. 
