@@ -13,7 +13,7 @@ For the Colts, Defensive Back Vontae Davis ($9,000,000), Wide Receiver T.Y. Hilt
 
 ## Question 3 The conventional thinking is that Left Tackles get paid the 2nd most behind the Quarterback because they protect the quarterback's (usually, assuming the quarterback is right-handed) blindside. Just from trying to answer Question 2, I thought it was interesting that the 2nd highest player for the Colts and the Falcons weren't left tackles. So, in how many teams are left tackles the second highest paid position?
 
-Of the 32 NFL teams, only 3 teams had their tackle as the 2nd highest player's salary cap hit in 2017. They are the Baltimore Ravens, Miami Dolphins, and the Oakland Raiders. I used the Filter tool to figure this out. 
+Of the 32 NFL teams, only 3 teams had their tackle as the 2nd highest player's salary cap hit in 2017. They are the Baltimore Ravens, Miami Dolphins, and the Oakland Raiders. I used the Filter tool to figure this out. It was interesting to see that there were more teams (4) who's highest position salary cap hit was the offensive lineman (Buffalo Bills, Cleveland Browns, New England Patriots, Philadelphia Eagles)
 
 *It should be noted that the amount of cap hit and the amount of money the players get paid are different (For example, Tom Brady's salary cap hit for the Patriots is just $1 million. Brady does not get paid just $1 million). 
 
