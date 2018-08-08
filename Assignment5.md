@@ -18,6 +18,7 @@ Of the 32 NFL teams, only 3 teams had their tackle as the 2nd highest player's s
 *It should be noted that the amount of cap hit and the amount of money the players get paid are different (For example, Tom Brady's salary cap hit for the Patriots is just $1 million. Brady does not get paid just $1 million). 
 
 
-Headline:
+Headline: Blindsite Protectors No Longer Second Highest Paid Position
 
-Nut Graf:
+Nut Graf: Ever since great Joe Theismann suffered a devastating injury from Lawrence Taylor, teams took notice to protect the blindside of the quarterbacks. Fair assessment, considering the price of a valuable quarterback has gone up every year. And left tackles were granted with handsome contract to prevent edge rushers from getting to their quarterbacks, earning the second most money in a team. But dive into the salary cap hit in the 2017, only 3 teams' 2nd highest paid position was an offensive lineman, signaling the end of a trend of paying handsome money to the quarterback protectors. 
+Offensive linemen, especially left tackles, are still unquestionably valuable, but teams are also paying large amount of money to their star wide receivers in this passing-friendly league and defensive linemen to pressure the opposing team's quarterback.
