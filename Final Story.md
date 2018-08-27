@@ -40,7 +40,7 @@ Kilian’s strategy might work if your team has 6-foot-4 A.J. Green or 6-foot-3 
 
 “I just think sometimes those guys just have smash-mouth mentality that they can bring to the offensive side, which can be a big addition,” Braun said. “We had a defensive tackle, who was about 5’9 260 pounds last year who’s pretty athletic and he smashed some people.”
 
-So if you want to hoard heavier-than-average running backs in your fantasy football league in the hopes that they score more touchdowns, do some homework before you make your selections. If that heavier-than-average running back has an outstanding wide receiver, a mobile quarterback, or a quarterback with great play-action motion, that running back might not bring you many points.
+So if you want to hoard heavier-than-average running backs in your fantasy football league in the hopes that they score more touchdowns than lighter-than-average running backs, do some homework before you make your selections. If that heavier-than-average running back has an outstanding wide receiver, a mobile quarterback, or a quarterback with great play-action motion, that running back might not bring you many points.
 
 
 
