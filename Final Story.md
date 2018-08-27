@@ -16,7 +16,7 @@ Of the 309 rushing touchdowns scored by running backs and fullbacks, more than 6
 
 So why are some coaches, in today’s games where West Coast offense are dominant, determined to pound the ball when their team is close to the goal line?
 
-Because down there, the vertical passing game shrinks,” said Monmouth College’s football team head coach Chad Braun said. “There’s not much of a vertical threat down there because the field shrinks and you’re not able to run deeper routes.”
+"Because down there, the vertical passing game shrinks,” said Monmouth College’s football team head coach Chad Braun said. “There’s not much of a vertical threat down there because the field shrinks and you’re not able to run deeper routes.”
 
 While spread offense can be effective when marching down the field, it may not be the most useful formation. Most famously, at Super Bowl XLIX, the Seahawks, down 28-24, attempted a pass with 25 seconds left in the game, which was intercepted by New England Patriots’ Malcolm Butler. Seattle head coach Pete Carroll was heavily criticized for not using Marshawn Lynch, one of the most fierce running backs in NFL history, at the goal line. 
 
@@ -32,7 +32,7 @@ For Braun, the answer depends on who his quarterback is.
 
 “Three years ago, in 2016, we had a quarterback who was 6-4, 230. We put him back there and ran wildcats with him and just let him plow,” Braun said. “Last year, we were different. We threw some two tight-ends and put our linebacker in the fullback position and lead the way.”
 
-Kilian has a different answer.
+Kilian has a different thought.
 
 “If you made me choose, I would go with the heavier personnel group, but have the flexibility in your formation so you’re not always doing it one way,” he said. “If you got a really good wide receiver and they’re playing man coverage, awesome. Have your other nine guys in protection where the ball is being snapped and play catch with your best receiver against a defensive back.”
 
