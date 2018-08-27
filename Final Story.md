@@ -6,7 +6,7 @@ Throughout the drive, the Redskins utilized Chris Thompson in the backfield, a d
 
 At the 10-yard line, Kelley rushed for five yards from a shotgun formation. After the Seahawks were called for a pass interference penalty that placed the ball at the one-yard line, the Redskins got in their goal line power formation—six offensive linemen, two tight ends on each side and a fullback—with Kelley. Kelley rushed twice to get into the endzone, taking a 7-2 lead during a Week 8 game last season.
 
-Although the NFL has become a passing-friendly league, teams often employ old-school strategy in the red zone, especially within 10 yards. Teams tend to switch to their power formation and rush heavier running backs to pound the defense, attempting to score a touchdown like the Redskins did against the Seahawks. 
+Although the NFL has become a passing-friendly league, teams often employ old-school strategy in the red zone, especially within five and 10 yards. Teams tend to switch to their power formation and rush heavier running backs to pound the defense, attempting to score a touchdown like the Redskins did against the Seahawks. 
 
 “A lot of it just has to do with physics,” said St. Olaf’s College football team head coach James Kilian. “You get a bigger guy moving as hard as you can and the momentum takes you forward.”  
 
